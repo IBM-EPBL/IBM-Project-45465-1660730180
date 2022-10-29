@@ -10,3 +10,4 @@ The main aim of the project is to building a model which is used for classifying
  
 Technical Architecture:
 
+![image](https://user-images.githubusercontent.com/114639920/198814262-1353775e-c7aa-45f6-a62b-317e63c3bb1d.png)
